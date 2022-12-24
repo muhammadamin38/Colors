@@ -1,0 +1,1 @@
+Pythondan ranglar
